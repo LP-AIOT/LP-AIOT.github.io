@@ -4,17 +4,17 @@
   
     
     <entry>
-      <title>使用 Github Pages 和 Hexo 搭建自己的独立博客</title>
-      <link href="/posts/531cd44d.html"/>
-      <url>/posts/531cd44d.html</url>
+      <title>《随心随性》</title>
+      <link href="/posts/102e7748.html"/>
+      <url>/posts/102e7748.html</url>
       
-        <content type="html"><![CDATA[<div align=center class="aspect-ratio">  <iframe src="https://player.bilibili.com/player.html?aid=556933559&&page=1&as_wide=1&high_quality=1&danmaku=0"   scrolling="no"   border="0"   frameborder="no"   framespacing="0"   high_quality=1  danmaku=1   allowfullscreen="true">   </iframe></div>]]></content>
+        <content type="html"><![CDATA[<h3 id="2022年9月26日-星期一"><a href="#2022年9月26日-星期一" class="headerlink" title="2022年9月26日 星期一"></a>2022年9月26日 星期一</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">今天是2022年9月26日 星期一，早安，亲爱的。人生本过客，何必千千结，走不出自己的执念，到哪都是囚徒。勿在别人心中修行自己，勿在自己心中强求别人，愿我们真诚坦荡，随心随性。</span><br></pre></td></tr></table></figure>]]></content>
       
       
       
         <tags>
             
-            <tag> Hexo </tag>
+            <tag> 早安 </tag>
             
         </tags>
       
@@ -23,17 +23,17 @@
     
     
     <entry>
-      <title>愿有人陪你颠沛流离</title>
-      <link href="/posts/0.html"/>
-      <url>/posts/0.html</url>
+      <title>《何惧道阻且长》</title>
+      <link href="/posts/85860518.html"/>
+      <url>/posts/85860518.html</url>
       
-        <content type="html"><![CDATA[<p>见了太多糟糕的事情，反倒觉得一切都会好的。<br>有了太多糟糕的情绪，反倒知道怎么应对这些。<br>能接吻就不要说话，能拥抱就不要吵架，能行动就不要发呆，能团聚就不要推辞。好的东西不要珍藏，今天能做的事不要等到明天。答应自己要去的地方就尽力去抵达。这个世界太危险，时间就该浪费在美好的事物上。<br>卢思浩从17岁开始写文，他总是尝试用最真实的文字记录下身边每件美好的事。他说：“只要心里有光，就不用害怕黑夜。”<br>这本真诚的书用温暖的文字告诉你，不要怕。</p>]]></content>
+        <content type="html"><![CDATA[<h3 id="2022年9月25日-星期天"><a href="#2022年9月25日-星期天" class="headerlink" title="2022年9月25日 星期天"></a>2022年9月25日 星期天</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">今天是2022年9月25日 星期天，早安，亲爱的。每个人的一生都有自己要走的路，晨起暮落，阴晴圆缺，都有定数。不必焦虑有人比你提前拥有，只需要认准方向，稳住自己的节奏。心若有所向往，何惧道阻且长。</span><br></pre></td></tr></table></figure>]]></content>
       
       
       
         <tags>
             
-            <tag> 文学 </tag>
+            <tag> 早安 </tag>
             
         </tags>
       
@@ -42,30 +42,55 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/posts/4a17b156.html"/>
-      <url>/posts/4a17b156.html</url>
+      <title>《自若清风》</title>
+      <link href="/posts/f804a097.html"/>
+      <url>/posts/f804a097.html</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="2022年9月24日-星期六"><a href="#2022年9月24日-星期六" class="headerlink" title="2022年9月24日 星期六"></a>2022年9月24日 星期六</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">今天是2022年9月24日 星期六，早安，亲爱的。他强任他强，清风拂山岗，这或许是红尘炼心的最高境界。我们最大的对手永远都是自己，而内心的强韧不仅是顺势坦途的运气，更是逆风翻盘的底气。此行山高路远，愿我们自若清风。</span><br></pre></td></tr></table></figure>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 早安 </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>《愿有人陪你颠沛流离》</title>
-      <link href="/posts/b73018a4.html"/>
-      <url>/posts/b73018a4.html</url>
+      <title>《知名不惧》</title>
+      <link href="/posts/61518ea4.html"/>
+      <url>/posts/61518ea4.html</url>
       
-        <content type="html"><![CDATA[<p>愿你遇到很好的朋友，从此孤单时也有陪伴；愿你喜欢上一个很好的人，从此难过时也有动力；愿你对自己的生活有信心，不管前路是否模糊；愿那些没能珍惜的青春和回忆，在你经历了成长的阵痛后能在心底认真而又平静地告别；愿那些错过的人，经历了颠沛流离之后还能再度相逢；愿你能够明白，世上所有的相遇都有它的意义；愿你即使被伤害过依旧有去爱这个世界的能力，变得坚定又温柔。</p>]]></content>
+        <content type="html"><![CDATA[<h3 id="2022年9月23日-星期五"><a href="#2022年9月23日-星期五" class="headerlink" title="2022年9月23日 星期五"></a>2022年9月23日 星期五</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">今天是2022年9月23日 星期五，早安，亲爱的。人生海海，先有不甘后有心安。生活给你很多难堪，并非是真心和你过不去，因为只有历经挫折的摔打，庆功宴才会更加尽兴。生如逆旅，那就愿我们知名不惧，日日自新。</span><br></pre></td></tr></table></figure>]]></content>
       
       
       
         <tags>
             
-            <tag> 文学 </tag>
+            <tag> 早安 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>《2022倒数100天》</title>
+      <link href="/posts/7f5dac01.html"/>
+      <url>/posts/7f5dac01.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="2022年9月22日-星期四"><a href="#2022年9月22日-星期四" class="headerlink" title="2022年9月22日 星期四"></a>2022年9月22日 星期四</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">今天是2022年9月22日 星期四，早安，亲爱的。时间过得可真快，2022年只剩下100天了。这一路，得到的是祝福，失去的未必是遗憾，未来的日子，更要坚定而努力，莫失心所念，万物尽可期。</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 早安 </tag>
             
         </tags>
       
