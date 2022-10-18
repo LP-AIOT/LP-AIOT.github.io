@@ -1,1 +1,1 @@
-var posts=["posts/7f5dac01.html","posts/61518ea4.html","posts/f804a097.html","posts/85860518.html","posts/102e7748.html"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["posts/6d8fc3a0.html","posts/ab18ea24.html","posts/e21aeb1d.html","posts/7f5dac01.html","posts/61518ea4.html","posts/85860518.html","posts/f804a097.html","posts/102e7748.html"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
